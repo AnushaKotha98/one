@@ -178,7 +178,6 @@
 
     <section id="about" class="about">
         <h2>About Me</h2>
-        <h3>This is Anusha</h3>
         <p>Hello! I'm Mustafa, a DevOps Engineer passionate about optimizing workflows and delivering scalable, automated solutions. I specialize in tools like Jenkins, Docker, Kubernetes, Terraform, and cloud platforms such as AWS and Azure.</p>
     </section>
 
